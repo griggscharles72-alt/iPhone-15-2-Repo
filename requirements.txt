@@ -1,0 +1,4 @@
+pyserial
+python-can
+scapy
+sqlite3

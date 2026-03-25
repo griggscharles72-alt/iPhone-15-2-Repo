@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: dr-core-shared
+Version: 0.1.0
+Requires-Dist: pyserial
+Requires-Dist: python-can
+Requires-Dist: scapy
+Dynamic: requires-dist

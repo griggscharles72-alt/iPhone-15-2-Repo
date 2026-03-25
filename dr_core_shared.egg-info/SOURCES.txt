@@ -1,0 +1,14 @@
+README.md
+setup.py
+dr_core_shared.egg-info/PKG-INFO
+dr_core_shared.egg-info/SOURCES.txt
+dr_core_shared.egg-info/dependency_links.txt
+dr_core_shared.egg-info/requires.txt
+dr_core_shared.egg-info/top_level.txt
+drcore_lib/__init__.py
+drcore_lib/artifacts.py
+drcore_lib/hardware.py
+drcore_lib/logging.py
+drcore_lib/state.py
+drcore_lib/transport.py
+tests/test_placeholder.py
